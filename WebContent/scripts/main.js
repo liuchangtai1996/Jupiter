@@ -4,7 +4,7 @@
      * Variables
      */
     var user_id = '1111';
-    var user_fullname = 'Changtai ';
+    var user_fullname = 'Changtai';
     var lng = -122.08;
     var lat = 37.38;
 
